@@ -1,0 +1,2 @@
+select * from dual; 
+select sum(1122+445) fropm dual;
